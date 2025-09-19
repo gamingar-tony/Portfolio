@@ -1,23 +1,23 @@
+header
+{
+    background: #ff7f27;
+    color: black;
+    padding: 20px;
+}
+
 body
 {
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 0;
     padding: 0;
-    background: #f4f4f9;
-    color: #333;
-}
-
-header
-{
-    background: #4CAF50;
+    background: #1769ff;
     color: white;
-    padding: 20px;
 }
 
 footer
 {
-    background: #222;
+    background: #a3469d;
     color: white;
     padding: 10px;
     margin-top: 20px;
